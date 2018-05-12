@@ -1,0 +1,26 @@
+<DOCTYPE html/>
+<html>
+<head>
+<title> Ukrainian scientific repository.</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta charset="UTF-8">
+<meta name="description" content="Repository of research papers by Ukrainian authors">
+<meta name="keywords" content="publication, paper, bibliography, google, scholar, research">
+<meta name="author" content="Mykhaylo Sharapov">
+
+
+
+</head>
+<body>
+<h1>Ukrainian Scientific repository</h1>
+<p>The purpose of this repository is to enhance indexing of Ukrainian research papers by Google Scholar robots</p>
+
+<p>Papers are as listed below</p>
+
+<a href="HTML passport Tsvetkova Forms of Government">Tsvietkova Forms of Government in Ukraine evolution, regional specifics, attitude.</a>
+
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+<DOCTYPE html/>
+<html>
+<head>
+<title> HTML passport Tsvietkova Forms of Government</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="citation_title" content="Forms of Government in Ukraine evolution, regional specifics, attitude">
+<meta name="citation_author" content="Tsvietkova">
+<meta name="citation_publication_date" content="2014/09/25">
+<meta name="citation_journal_title" content="Premeni ustavneho prava – kontinuita a diskontinuita: zbornik z medzinarodnej vedeckoj konferencie, konanej dna 25.9.2014 v Bratislave. pp.257-284">
+<meta name="citation_pdf_url" content="http://www.example.com/...../11761.full.pdf">
+
+
+<style>
+h1 {font-size:24pt;}
+p {font-size:16pt;}
+
+
+</style>
+
+
+
+</head>
+<body>
+<a href="Tsvietkova Forms of Government in Ukraine evolution, regional specifics, attitude.pdf">citation title.pdf</a>
+<h1>Citation title: Forms of Government in Ukraine: evolution, regional specifics, attitude.</h1>
+<p>Citation author: Y.Tsvietkova.</p>
+<p>Bibliography: Premeni ustavneho prava – kontinuita a diskontinuita: zbornik z medzinarodnej vedeckoj konferencie, konanej dna 25.9.2014 v Bratislave. pp.257-284
+Bratislava: Atticum, 2014
+</p>
+<p>Abstract: The article is dedicated to problems of different legal population mentality of the regions of Ukraine, as can be demonstrated on sample of the collegial and sole forms of government. The evolution of governments in different parts of Ukrainian lands from early Middle Ages till nowadays was affected by various political forces and definite circumstances, what caused significant peculiarities. The main tradition and specific feature of governmental development realized in tendency to support collegial ruling on Western Ukraine and sole ruling in Eastern.</p>
+
+
+
+</body>
+</html>
+
+

@@ -19,7 +19,7 @@
 
 <p>Papers are as listed below</p>
 
-<a href="https://mykhaylosharapov.github.io/HTML passport Tsvetkova Forms of Government.html">Tsvietkova Forms of Government in Ukraine evolution, regional specifics, attitude.</a>
+<a href="HTML passport Tsvetkova Forms of Government">Tsvietkova Forms of Government in Ukraine evolution, regional specifics, attitude.</a>
 
 
 </body>
